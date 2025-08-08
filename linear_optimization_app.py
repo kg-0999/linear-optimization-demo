@@ -4,8 +4,8 @@ from scipy.optimize import linprog
 
 st.title("📈 Linear Optimization Tool")
 st.subheader('An App by Sai Krishna Gaddam') 
-st.write(('This app provides Linear Optimization Solution based on User Input, '  
-'Provide Optimization function type, constraints and bounds then click Solve Optimization Problem ' 
+st.write(('This app provides Linear Optimization Solution based on User Input. '  
+'Provide Optimization function type, constraints and bounds then click Solve Optimization Problem. ' 
 'If an optimal solution is found, result is shown at the end! '
 'Happy Solving! '))
 # Step 1: Select Optimization Type
